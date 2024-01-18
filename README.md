@@ -16,7 +16,7 @@ Dedicated and results-driven Junior Data Scientist with a Bachelor's degree in C
 - **Data Manipulation:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Machine Learning Frameworks:** Scikit-Learn, TensorFlow
-- **Database Management:** SQL Server, MongoDB
+- **Database Management:** SQL Server
 - **Statistical Analysis:** Hypothesis Testing, A/B Testing, Regression Analysis
 - **Tools:** Jupyter Notebooks, Git, Docker
 - **Soft Skills:** Analytical Thinking, Problem-Solving, Collaboration, Effective Communication
