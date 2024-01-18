@@ -1,7 +1,7 @@
 ### Hi there 👋
-# Abdelrhman Youssef Mohamed Elmandrawy
+# Abdelrhman Youssef 
 
-📧 [abdelrhmanyoussef82000@gmail.com](mailto:abdelrhmanyoussef82000@gmail.com) &nbsp;&nbsp; 📱 [+20 150 761 6525](tel:+201507616525) &nbsp;&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/abdelrhman-youssef-4984b71b7/) &nbsp;&nbsp; 📍 Cairo, Egypt
+📧 [abdelrhmanyoussef82000@gmail.com](mailto:abdelrhmanyoussef82000@gmail.com) &nbsp;&nbsp;  🌐 [LinkedIn](https://www.linkedin.com/in/abdelrhman-youssef-4984b71b7/) &nbsp;&nbsp; 📍 Cairo, Egypt
 
 ---
 
@@ -32,20 +32,6 @@ Dedicated and results-driven Junior Data Scientist with a Bachelor's degree in C
 
 - **Data Science Intern | ExploreAI**
   - *Sep 2023*
-
-## Projects
-
-### [Project Name 1]
-
-- Brief description of the project.
-- Technologies and tools used.
-- Link to the project repository or deployed version.
-
-### [Project Name 2]
-
-- Brief description of the project.
-- Technologies and tools used.
-- Link to the project repository or deployed version.
 
 ## Connect with Me
 
